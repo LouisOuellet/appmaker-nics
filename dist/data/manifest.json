@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-nics",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-nics"
+        }
+    },
+    "name": "nics",
+    "build": 2,
+    "version": "22.01-dev"
+}
